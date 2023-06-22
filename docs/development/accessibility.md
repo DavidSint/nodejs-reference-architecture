@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # Accessibility
 
 In the context of software development accessibility refers to

@@ -1,3 +1,7 @@
+---
+sidebar_position: 17
+---
+
 # Secure Development Process
 
 It is important to build security into your software development process. Some of the key elements to address in the development process for Node.js modules and applications include:

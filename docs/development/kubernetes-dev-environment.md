@@ -1,3 +1,7 @@
+---
+sidebar_position: 12
+---
+
 # Kubernetes-based Development Environment Recommendations
 
 Developement and local-testing flows should ideally be the same for all the developers of a project, but its

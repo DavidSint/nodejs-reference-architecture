@@ -1,3 +1,7 @@
+---
+sidebar_position: 14
+---
+
 # Consuming Services
 
 Consuming services over HTTPs is a common pattern in Node.js applications.

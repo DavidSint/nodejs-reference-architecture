@@ -1,4 +1,8 @@
-﻿# Typical Development Workflows
+﻿---
+sidebar_position: 11
+---
+
+# Typical Development Workflows
 
 Developement flows within the team's developer and the customers the team works
 with need to accomodate the following:

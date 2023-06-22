@@ -1,3 +1,7 @@
+---
+sidebar_position: 15
+---
+
 # Npm Package Development
 
 ## Recommended Components

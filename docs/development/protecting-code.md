@@ -1,3 +1,7 @@
+---
+sidebar_position: 16
+---
+
 # Protecting Code
 
 Within some organizations (including IBM) there are requirements
